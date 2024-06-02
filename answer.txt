@@ -1,2 +1,0 @@
-Why are you interested in taking CMSC320?
-I'm interested in CMSC320 because it offers a comprehensive introduction to the data science pipeline, guiding me from unstructured data to actionable insights. This knowledge is essential for my specialization in machine learning and AI, and it will also support many side projects that I plan on doing. 
